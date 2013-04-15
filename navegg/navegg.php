@@ -36,6 +36,7 @@ class Navegg extends Module
 		$this->version = '0.1.0';
 		$this->author = 'Ale Borba';
 		$this->need_instance = 0;
+		$this->module_key = "07740e711beb3408d5e57ecc348f59c8";
 
 		parent::__construct();
 
